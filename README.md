@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mtchavez/node-al-papi.png)](http://travis-ci.org/mtchavez/node-al-papi)
 Node.js AuthorityLabs Partner API Package
 =========================================
 
